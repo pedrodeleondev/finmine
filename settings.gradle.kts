@@ -21,4 +21,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "finmine"
 include(":app")
- 
+include(":core-ui")
+include(":core-data")
+include(":feature-auth")
+include(":feature-finanzas")
+include(":feature-notas")
+include(":feature-user")
